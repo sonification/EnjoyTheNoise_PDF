@@ -20,4 +20,4 @@ navigate to the same directory as the pdf, open Terminal and run:
 
 shasum -a 256 EnjoyTheNoise_CeccatoRudy.pdf
 
-![Etn_cover02_front_1280x2103](https://github.com/user-attachments/assets/18b32f93-0142-4645-b73a-869d9f558e82)
+![Etn_cover02_front_414x680](https://github.com/user-attachments/assets/7c9a797b-8769-412a-af0a-9787c9e71cde)
